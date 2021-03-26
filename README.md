@@ -1,16 +1,18 @@
-### Hi there 👋
+###  👋
 
-<!--
-**dav009/dav009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer wearing multiple hats: MlOps/ML-Engineer/Devops. 
+Based in Tokyo 🗼 working for Optimizely
 
-Here are some ideas to get you started:
+Working on/Interested in:
+- 🤖 Productionizing Machine Learning
+- 🤖 Reproducibility for Machine Learning Projects
+- 🤖 MLops
+- 📖 Computational Linguistics/NLP 
+- 👷 Data pipelines
+- 🌱 Empowering Journalists with Data tools
+- Open Data Enthusiast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📬 Get in Touch
+[@dav009](https://twitter.com/dav009)
+[LinkedIn](https://www.linkedin.com/in/przybilla/)
+
