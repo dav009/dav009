@@ -17,4 +17,5 @@ Working on/Interested in:
 # 📬 Get in Touch
 - [@dav009](https://twitter.com/dav009)
 - [LinkedIn](https://www.linkedin.com/in/przybilla/)
+- ✍️[Medium](https://medium.com/@dav009)
 
