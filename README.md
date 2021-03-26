@@ -1,6 +1,7 @@
 ###  👋 Hello, I'm David Przybilla
 
 Software Engineer -  wearing multiple hats 🎩: MlOps, ML-Engineer, Devops. 
+
 Based in Tokyo 🗼 working for Optimizely
 
 Working on/Interested in:
