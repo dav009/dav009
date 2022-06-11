@@ -1,16 +1,16 @@
 ###  👋 Hello, I'm David Przybilla
 
-Software Engineer -  wearing multiple hats 🎩: MlOps, ML-Engineer, Devops. 
-
-Based in Tokyo 🗼:
+Software Engineer - working in the Data realm (MLops, Data engineering, Infrastructure)
 
 Working on/Interested in:
-- 🤖 Productionizing Machine Learning Models
-- 🤖 Reproducibility for Machine Learning Projects
-- 🤖 MLops
-- 🤖 Recommendation systems
-- 📖 Computational Linguistics/NLP 
+- Python/Golang/Scala
+- 🤖 Building tools for empowering ML engineers and Data scientists
+- 🤖 Reproducibility of: Software and Machine Learning
+- 🤖 Making the ML lifecycle faster
 - 👷 Data pipelines
+- 👷 Kubernetes
+- 👷 eUTXO blockchains
+
 
 # 📬 Get in Touch
 - [@dav009](https://twitter.com/dav009)
