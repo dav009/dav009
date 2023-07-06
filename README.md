@@ -9,7 +9,6 @@ Working on/Interested in:
 - 🤖 Making the ML lifecycle faster
 - 👷 Data pipelines
 - 👷 Kubernetes
-- 👷 eUTXO blockchains
 
 
 # 📬 Get in Touch
